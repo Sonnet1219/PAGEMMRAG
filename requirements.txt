@@ -1,0 +1,4 @@
+colpali-engine==0.3.14
+qwen-vl-utils==0.0.14
+pypdfium2==5.5.0
+qdrant-client==1.17.0
